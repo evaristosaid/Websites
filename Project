@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is an awesome wesite>
+        <title></title>
+    </head>
+    <body>
+        <br/><hr/>
+        <h2>Evaristo's Website</h2>
+        Paragrapgh/text
+        <p>This is my <b><i>paragrah</b></i></p>
+        Comments
+        <!-- sadf-->
+        Style and Color
+        <P style="color: red; background-color:  blue"
+    </body>
+</html>
